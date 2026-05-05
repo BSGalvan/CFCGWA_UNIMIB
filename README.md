@@ -48,7 +48,7 @@ Friday, May 8: Binary Parameter Estimation (Tutorial)
 
 Tuesday, May 12: Fisher Analysis and Principal Component Analysis (Tutorial) 
 
-Friday, May 15: Wrap up and Gravity Beyond GR (TBD)
+Friday, May 15: Population Inference (Guest lecture by Alexandre Toubiana) 
 
 ## Exam 
 10-minute presentation on your own research or a published paper discussing how it relates to the techniques or topics we have discussed in this class
