@@ -44,6 +44,8 @@ Tuesday, May 5: Bayesian Overview (Tutorial)
 
 Friday, May 8: Binary Parameter Estimation (Tutorial) 
 
+- **[Notebook](L06_bayes/L06_PE.ipynb)**
+
 **Week 4**
 
 Tuesday, May 12: Fisher Analysis and Principal Component Analysis (Tutorial) 
