@@ -44,7 +44,7 @@ Tuesday, May 5: Bayesian Overview (Tutorial)
 
 Friday, May 8: Binary Parameter Estimation (Tutorial) 
 
-- **[Notebook](L06_bayes/L06_PE.ipynb)**
+- **[Notebook](L06_PE/L06_PE.ipynb)**
 
 **Week 4**
 
