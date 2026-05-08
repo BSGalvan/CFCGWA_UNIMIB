@@ -44,7 +44,9 @@ Tuesday, May 5: Bayesian Overview (Tutorial)
 
 Friday, May 8: Binary Parameter Estimation (Tutorial) 
 
-- **[Notebook](L06_PE/L06_PE.ipynb)**
+- **[Notebook](L06_PE/L06_PE.ipynb)** <a target="_blank" href="https://colab.research.google.com/github/BSGalvan/CFCGWA_UNIMIB/blob/main/L06_PE/L06_PE.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 **Week 4**
 
