@@ -48,7 +48,7 @@ Friday, May 8: Binary Parameter Estimation (Tutorial)
 
 Tuesday, May 12: Fisher Analysis and Principal Component Analysis (Tutorial) 
 
-- **[Notebook](L07_FIM_PCA/L07_notebook.ipynb)**
+- **[Notebook](L07_FIM_PCA/L07_notebook.nb)**
 - Other relevant files can be found in **[L05_bayes](L05_bayes)**, **[L06_PE](L06_PE)**, **[L07_FIM_PCA](L07_FIM_PCA)**
 
 Friday, May 15: Population Inference (Guest lecture by Alexandre Toubiana) 
