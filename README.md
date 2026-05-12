@@ -47,10 +47,14 @@ Friday, May 8: Binary Parameter Estimation (Tutorial)
 - **[Notebook](L06_PE/L06_PE.ipynb)** <a target="_blank" href="https://colab.research.google.com/github/BSGalvan/CFCGWA_UNIMIB/blob/main/L06_PE/L06_PE.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+- **[Notebook](L06_PE/L06_PE.ipynb)**
 
 **Week 4**
 
 Tuesday, May 12: Fisher Analysis and Principal Component Analysis (Tutorial) 
+
+- **[Notebook](L07_FIM_PCA/L07_notebook.nb)**
+- Other relevant files can be found in **[L05_bayes](L05_bayes)**, **[L06_PE](L06_PE)**, **[L07_FIM_PCA](L07_FIM_PCA)**
 
 Friday, May 15: Population Inference (Guest lecture by Alexandre Toubiana) 
 
