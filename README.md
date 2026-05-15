@@ -58,6 +58,6 @@ Friday, May 15: Hierarchical Bayesian Analysis and Model Selection (Guest lectur
 - **[Tutorial](L08_hba)**
 
 ## Exam 
-10-minute presentation on your own research or a published paper discussing how it relates to the techniques or topics we have discussed in this class
+A 10-minute presentation on your own research or a published paper discussing how it relates to the techniques or topics we have discussed in this class. The presentation should be accessible to an audience who are astrophysicists but not necessarily experts in the specific topic.
 
-2 minutes for questions
+The presentation will be followed by 2 minutes for questions.
