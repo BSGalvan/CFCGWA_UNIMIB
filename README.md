@@ -55,7 +55,7 @@ Tuesday, May 12: Fisher Analysis and Principal Component Analysis (Tutorial)
 Friday, May 15: Hierarchical Bayesian Analysis and Model Selection (Guest lecture by Alexandre Toubiana) 
 
 - **[Slides](L08_hba/class.pdf)**
-- **[tutorial](L08_hba)**
+- **[Tutorial](L08_hba)**
 
 ## Exam 
 10-minute presentation on your own research or a published paper discussing how it relates to the techniques or topics we have discussed in this class
