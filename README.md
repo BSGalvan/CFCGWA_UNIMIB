@@ -1,5 +1,6 @@
-# CFCGWA_UNIMIB
-Current and Future Challenges of Gravitational Wave Astronomy 
+# Current and Future Challenges of Gravitational Wave Astronomy 
+
+[Caroline Owen](https://carolinebowenphysics.wixsite.com/cbo-physics)  - caroline.owen@unimib.it  
 
 This is a PhD course at the University of Milan-Bicocca. It will consist of 16 hours of instruction, divided into 8 classes taught over 4 weeks. The delivery will consist of chalk talks, coding tutorials, and hands-on problems. The aim of this course is to provide both a theoretical overview of gravitational wave astronomy and exposure to the techniques that are actually used in research. 
 
