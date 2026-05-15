@@ -52,7 +52,10 @@ Tuesday, May 12: Fisher Analysis and Principal Component Analysis (Tutorial)
 - **[Notebook](L07_FIM_PCA/L07_notebook.nb)**
 - Other relevant files can be found in **[L05_bayes](L05_bayes)**, **[L06_PE](L06_PE)**, **[L07_FIM_PCA](L07_FIM_PCA)**
 
-Friday, May 15: Population Inference (Guest lecture by Alexandre Toubiana) 
+Friday, May 15: Hierarchical Bayesian Analysis and Model Selection (Guest lecture by Alexandre Toubiana) 
+
+- **[Slides](L08_hba/class.pdf)**
+- **[tutorial](L08_hba)**
 
 ## Exam 
 10-minute presentation on your own research or a published paper discussing how it relates to the techniques or topics we have discussed in this class
