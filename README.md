@@ -1,5 +1,6 @@
-# CFCGWA_UNIMIB
-Current and Future Challenges of Gravitational Wave Astronomy 
+# Current and Future Challenges of Gravitational Wave Astronomy 
+
+[Caroline Owen](https://carolinebowenphysics.wixsite.com/cbo-physics)  - caroline.owen@unimib.it  
 
 This is a PhD course at the University of Milan-Bicocca. It will consist of 16 hours of instruction, divided into 8 classes taught over 4 weeks. The delivery will consist of chalk talks, coding tutorials, and hands-on problems. The aim of this course is to provide both a theoretical overview of gravitational wave astronomy and exposure to the techniques that are actually used in research. 
 
@@ -56,9 +57,16 @@ Tuesday, May 12: Fisher Analysis and Principal Component Analysis (Tutorial)
 - **[Notebook](L07_FIM_PCA/L07_notebook.nb)**
 - Other relevant files can be found in **[L05_bayes](L05_bayes)**, **[L06_PE](L06_PE)**, **[L07_FIM_PCA](L07_FIM_PCA)**
 
-Friday, May 15: Population Inference (Guest lecture by Alexandre Toubiana) 
+Friday, May 15: Hierarchical Bayesian Analysis and Model Selection (Guest lecture by Alexandre Toubiana) 
+
+- **[Slides](L08_hba/class.pdf)**
+- **[Tutorial](L08_hba)**
 
 ## Exam 
-10-minute presentation on your own research or a published paper discussing how it relates to the techniques or topics we have discussed in this class
+Thursday, May 28, at 10:30 am, U2:2016
+Thursday, June 11, at 10:30 am, U2:2016
 
-2 minutes for questions
+The exam will consist of a 10-minute presentation on your own research or a published paper discussing how it relates to the techniques or topics we have discussed in this class. The presentation should be accessible to an audience who are astrophysicists but not necessarily experts in the specific topic.
+
+The presentation will be followed by 2 minutes for questions.
+
